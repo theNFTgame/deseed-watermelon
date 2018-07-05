@@ -19,7 +19,7 @@ For a guide on the concepts included in this project and how to build it from sc
 
 Once you've installed the project's dependencies, you can run the project using [Webpack Dev Server](https://github.com/webpack/webpack-dev-server).
 
-1. From your project's directory, run `yarn webpack-dev-server`.
+1. From your project's directory, run `yarn webpack-dev-server` or run `npm start`.
 1. Open up your browser to `http://localhost:8080`.
 1. You should see a web page with a black box that says "Hello Phaser!" in green text. That's our game!
 1. :tada:
